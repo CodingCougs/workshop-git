@@ -20,7 +20,7 @@ Repository
 
 Shell Commands
 
-![image](img\nav_to_directory.png)
+![image](img/nav_to_directory.png)
 * Open a terminal (Preferably within VSCode)
 * Change Directory into new folder
 
