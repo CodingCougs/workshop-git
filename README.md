@@ -7,7 +7,6 @@ Requires the following
 * NodeJS
 * reveal-md
 
-
 Install NodeJs
 
 * Download Node Version 6: https://nodejs.org/en/download/
@@ -17,10 +16,13 @@ Repository
 
 * Download Zip into a folder
 
+![image](img/clone_download.png)
+
 
 Shell Commands
 
 * Open a terminal (Preferably within VSCode)
+
 ![image](img/nav_to_directory.png)
 
 
