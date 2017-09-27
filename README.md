@@ -1,4 +1,4 @@
-# Slides for git with kevin and ken
+# Codng Cougs Git Workshop
 
 Install reveal-md and launch the presentation
 ```
