@@ -23,7 +23,9 @@ Shell Commands
 * Open a terminal (Preferably within VSCode)
 ![image](img/nav_to_directory.png)
 
+
 * Change Directory into new folder
+
 ![image](img/nav_cmd_to_directory.png)
 
 
