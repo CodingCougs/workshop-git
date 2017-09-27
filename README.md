@@ -24,7 +24,7 @@ Shell Commands
 ![image](img/nav_to_directory.png)
 
 * Change Directory into new folder
-![image](img/nav_c md_to_directory.png)
+![image](img/nav_cmd_to_directory.png)
 
 
 Install reveal-md and launch the presentation
